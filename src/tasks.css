@@ -1,0 +1,58 @@
+.header-text {
+    background-color: aquamarine;
+    border-color: #d3d3d3;
+    padding: 10px;
+}
+
+.table-tasks {
+    border: 2px solid #d3d3d3;
+}
+
+.title {
+    font-size: 28px;
+    color: #ffffff;
+    padding: 10px;
+    margin: 10px;
+}
+
+.app-section {
+    align-content: center;
+    margin-top: 200px !important;
+}
+
+.app-div {
+    margin-left: 50px;
+    width: 40%;
+    align-content: center;
+    text-align: center;
+}
+.app-header{
+    background-color: aquamarine;
+
+}
+
+.task-lines{
+    width: 100%;
+    float: left;
+    display: block;
+}
+
+.task-box {
+    display: block;
+}
+
+.task-label-finished {
+    text-decoration: line-through;
+}
+
+.delete-btn {
+    color: red;
+
+}
+
+.remover {
+
+    text-align: right;
+    float: right;
+    text-align: right;
+}
